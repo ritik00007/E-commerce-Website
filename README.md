@@ -1,2 +1,2 @@
-# E-commerce-Website
-this is an ecommerce website , where you can but clothes and other accessories .
+hey this is just a sample e-commerce website 
+where you can buy clothes and accessories .
